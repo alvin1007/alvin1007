@@ -27,7 +27,7 @@
 - COBOL
 #### etc
 - Linux
-# MY SNS
+# My SNS
 ----
  - [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w)](https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w) 
  - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:btimpeul@gmail.com)](mailto:btimpeul@gmail.com)
