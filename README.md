@@ -22,6 +22,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 - HTML, CSS
 - Typescript
 #### I hope study
+- C++
 - ReactJS, NestJS
 - React Native
 - GraphQL
