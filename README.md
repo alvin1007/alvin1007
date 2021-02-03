@@ -2,7 +2,7 @@
 ----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin1007&show_icons=true&theme=dracula)
 [![Solved.ac
-alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https://solved.ac/alvin1007)
 # Development field
 ----
 - ### ML
