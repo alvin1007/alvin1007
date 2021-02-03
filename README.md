@@ -11,7 +11,6 @@
 # Language Specification
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&layout=compact)](https://github.com/alvin1007/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin1007&show_icons=true)
 #### Main
 - C
 - Python
