@@ -19,7 +19,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 - VanillaJS
 - HTML, CSS
 - Typescript
-#### I hope study
+#### Study to do next
 - C++
 - ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat), nestJS
 - React Native
