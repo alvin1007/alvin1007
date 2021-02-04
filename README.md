@@ -30,5 +30,4 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 - Linux
 # My SNS
 
- - [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w)](https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w) 
- - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:btimpeul@gmail.com)](mailto:btimpeul@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w)](https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:btimpeul@gmail.com)](mailto:btimpeul@gmail.com)
