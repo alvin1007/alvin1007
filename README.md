@@ -14,7 +14,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&layout=compact)](https://github.com/alvin1007/github-readme-stats)
 #### Main
-- [![C Badge](https://img.shields.io/badge/C-blue-style=flat-square&logo=C&logoColor=white)]
+- ![C](https://img.shields.io/badge/-C-blue?logo=C&logoColor=white&style=flat)
 - Python
 - Go
 #### Studying
@@ -23,7 +23,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 - Typescript
 #### I hope study
 - C++
-- ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+- ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat), nestJS
 - React Native
 - GraphQL
 - PHP, MySQL
