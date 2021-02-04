@@ -20,8 +20,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 - HTML, CSS
 - Typescript
 #### Study to do next
-- C++
-- ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat), nestJS
+![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=flat)   ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=NestJS&logoColor=white&style=flat)
 - React Native
 - GraphQL
 - PHP, MySQL
