@@ -14,7 +14,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&layout=compact)](https://github.com/alvin1007/github-readme-stats)
 #### Main
-![C](https://img.shields.io/badge/-C-blue?logo=C&logoColor=white&style=flat)![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-blue?logo=C&logoColor=white&style=flat)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
 #### Studying
 - VanillaJS
 - HTML, CSS
