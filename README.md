@@ -14,17 +14,15 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&layout=compact)](https://github.com/alvin1007/github-readme-stats)
 #### Main
-![C](https://img.shields.io/badge/-C-blue?logo=C&logoColor=white&style=flat)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
 #### Studying
-- VanillaJS
-- HTML, CSS
-- Typescript
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
 #### Study to do next
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)   ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=NestJS&logoColor=white&style=flat)
 - React Native
 - GraphQL
 - PHP, MySQL
-- COBOL
+- Typescript
 #### etc
 - Linux
 # My SNS
