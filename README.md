@@ -6,9 +6,9 @@
 alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https://solved.ac/alvin1007)
 # Development field
 
-- ### ML
+- ## ML
 - ### DB
-- ### WEB
+- #### WEB
 
 # Language Specification
 
@@ -24,7 +24,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
 ----
 ### Study to do next
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)   ![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat)   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)   ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat)   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=NestJS&logoColor=white&style=flat)   ![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat)   ![Node.JS](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat)   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat)   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat)   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)   ![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat)   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat)   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)   ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat)   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=NestJS&logoColor=white&style=flat)   ![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat)   ![Node.JS](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat)   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat)
 ----
 # My SNS
 
