@@ -18,7 +18,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
 ----
 ### Assistant
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat)   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat)
 ----
 ### Studying
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
