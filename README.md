@@ -5,8 +5,9 @@
 [![Solved.ac
 alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https://solved.ac/alvin1007)
 # Main Development Field
-- ### ML
+- ### ML, DL
 - ### DB
+- ### BC
 
 # Assistant Development Field
 - ### WEB
