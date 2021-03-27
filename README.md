@@ -9,7 +9,7 @@ alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https:/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&layout=compact)](https://github.com/alvin1007/github-readme-stats)
 ----
 ### Main
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)     ![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=flat)    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
 ----
 ### Assistant
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat)
