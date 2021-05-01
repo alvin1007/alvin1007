@@ -1,8 +1,6 @@
 # **YOUNG JEA CHO** <img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin1007&show_icons=true&theme=dracula)
--
-[![Solved.acalvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https://solved.ac/alvin1007)
 
 # Language Specification
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&langs_count=10&hide=BrainFuck&layout=compact&theme=dracula)](https://github.com/alvin1007/github-readme-stats)
