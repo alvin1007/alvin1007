@@ -1,4 +1,5 @@
-# YOUNG JEA CHO 
+# YOUNG JEA CHO <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpython-pillow%2FPillow%2Fissues%2F5032&psig=AOvVaw0909EcC2aHMIPue2DsOrS_&ust=1619965594679000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiQiaPYqPACFQAAAAAdAAAAABAP"/> 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin1007&show_icons=true&theme=dracula)
 -
 [![Solved.acalvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https://solved.ac/alvin1007)
