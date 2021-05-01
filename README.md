@@ -1,18 +1,17 @@
-# YOUNG JEA CHO [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falvin1007%2F&count_bg=%23213D86&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+# YOUNG JEA CHO 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin1007&show_icons=true&theme=dracula)
 -
-[![Solved.ac
-alvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https://solved.ac/alvin1007)
+[![Solved.acalvin1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin1007)](https://solved.ac/alvin1007)</div>
 
 # Language Specification
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&layout=compact)](https://github.com/alvin1007/github-readme-stats)
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&langs_count=10&hide=BrainFuck&layout=compact&theme=dracula)](https://github.com/alvin1007/github-readme-stats)</div>
 ----
-### Main
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)     ![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat)    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
-----
-### Assistant
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat)
+# Main
+<div align="center">
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)     ![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat)    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)   
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat)</div>
 ----
 
 # My SNS
