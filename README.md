@@ -1,4 +1,4 @@
-# YOUNG JEA CHO <img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/> 
+# **YOUNG JEA CHO** <img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin1007&show_icons=true&theme=dracula)
 -
@@ -13,4 +13,4 @@
 ----
 
 # My SNS
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w)](https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:btimpeul@gmail.com)](mailto:btimpeul@gmail.com)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=flat&link=https://www.facebook.com/profile.php?id=100010665587072)](https://www.facebook.com/profile.php?id=100010665587072)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat&link=https://www.instagram.com/young_jea_cho/)](https://www.instagram.com/young_jea_cho/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w)](https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:btimpeul@gmail.com)](mailto:btimpeul@gmail.com)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=flat&link=https://www.facebook.com/profile.php?id=100010665587072)](https://www.facebook.com/profile.php?id=100010665587072)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat&link=https://www.instagram.com/young_jea_cho/)](https://www.instagram.com/young_jea_cho/)
