@@ -1,4 +1,4 @@
-# YOUNG JEA CHO <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpython-pillow%2FPillow%2Fissues%2F5032&psig=AOvVaw0909EcC2aHMIPue2DsOrS_&ust=1619965594679000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiQiaPYqPACFQAAAAAdAAAAABAP"/> 
+# YOUNG JEA CHO <img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin1007&show_icons=true&theme=dracula)
 -
