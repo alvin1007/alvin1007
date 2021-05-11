@@ -8,7 +8,7 @@
 <br><br>
 
 <p>
-<h1>Main</h1>
+<h2>Main</h2>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&langs_count=10&hide=BrainFuck&layout=compact&theme=dracula"/>
 <br><br><br>
@@ -22,7 +22,7 @@
 <br><br>
 </p>
 
-<h1>My SNS</h1>
+<h2>My SNS</h2>
 <br>
 <a href="https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w" target="_blanck">
 <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w"/>
