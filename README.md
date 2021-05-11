@@ -8,10 +8,10 @@
 <br><br>
 
 <p>
-<h2>Main</h2>
+<h1>Main</h1>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&langs_count=10&hide=BrainFuck&layout=compact&theme=dracula"/>
-<br><br><br>
+<br><br>
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat"/> 
 <img src="https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&logoColor=white&style=flat"/>
@@ -22,7 +22,7 @@
 <br><br>
 </p>
 
-<h2>My SNS</h2>
+<h1>My SNS</h1>
 <br>
 <a href="https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w" target="_blanck">
 <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCDwysGLYbGxOsHrLE506R_w"/>
