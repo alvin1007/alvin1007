@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h1>YOUNG JEA CHO
+<h1>YOENG JAE CHO
 <img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/>
 </h1>
 <br>
@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat"/>  
 <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat"/><br>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-MariaDB-003545?logo=MariaDB&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=Microsoft%20SQL%20Server&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat"><br>
+<img src="https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat"/>
 <br><br>
 </p>
