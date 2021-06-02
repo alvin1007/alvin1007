@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h1>YOENG JAE CHO
+<h1>YEONG JAE CHO
 <img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/>
 </h1>
 <br>
