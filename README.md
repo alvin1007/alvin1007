@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=Microsoft%20SQL%20Server&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat"><br>
 <img src="https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-Ren'Py-FF7F7F?logo=Ren'Py&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat"/>
 <br><br>
 </p>
