@@ -10,7 +10,7 @@
 <p>
 <h1>Main</h1>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&langs_count=10&layout=compact&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin1007&hide=Objective-C%2B%2B, Brainfuck&langs_count=10&layout=compact&theme=dracula"/>
 <br><br>
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat"/> 
