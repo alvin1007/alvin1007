@@ -58,7 +58,21 @@ I am interested in Game Engine and Computer Graphic.
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=Unreal%20Engine&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/-Ren'Py-FF7F7F?logo=Ren'Py&logoColor=white&style=flat"/>
+  
+<br>
+  
+<img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-After%20Effects-9999FF?logo=Adobe%20After%20Effects&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white&style=flat"/>
+  
+<br>
 
+<img src="https://img.shields.io/badge/-Blender-F5792A?logo=Blender&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-Houdini-FF4713?logo=Houdini&logoColor=white&style=flat"/>
+  
+<br> 
+
+<img src="https://img.shields.io/badge/-Wwise-00549F?logo=Wwise&logoColor=white&style=flat"/>
 
 <br><br>
 
