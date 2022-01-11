@@ -45,7 +45,7 @@ I am interested in Game Engine and Computer Graphic.
 <br><br>
 
 
-## Main Stack
+## Main Skill
 
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat"/> 
