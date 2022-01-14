@@ -7,7 +7,7 @@
 
 ### Hello, I'm Yeongjae Cho!
 
-I am interested in Game Engine, Computer Graphic, Audio, Engineering.
+I am interested in Game Engine, Computer Graphic, Audio, Software Engineering.
 
 
 <br><br>
