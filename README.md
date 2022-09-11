@@ -7,7 +7,7 @@
 
 ### Hello, I'm Yeongjae Cho!
 
-I am interested in VR, VFX, Game Engine, Computer Graphic, Audio.
+I am interested in VR, VFX, Game Engine, Computer Graphic, Audio, Compiler, AI.
 
 
 <br><br>
