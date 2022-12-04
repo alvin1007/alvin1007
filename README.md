@@ -5,7 +5,7 @@
 <img height="100" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/>
 
 
-#### Hello, I'm Yeongjae Cho!
+### Hello, I'm Yeongjae Cho!
 
 <br><br>
 
