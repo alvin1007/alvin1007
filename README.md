@@ -1,16 +1,18 @@
 <div align='center'>
 
-<h1><img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/>    YEONG JAE CHO    <img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/></h1>
+<h1>    YEONG JAE CHO    </h1>
 
 <br><br>
 
 <a href="https://github.com/Cuvel" target="_blanck">
-<img height="100" src="https://user-images.githubusercontent.com/77112874/205495066-a8a5a122-9e3a-488b-b958-71a09fe5f030.png">
+<img height="100" src="https://user-images.githubusercontent.com/77112874/205496883-5dd69083-033f-4b55-ba57-64de4e701f68.png">
 </a>
 
 **Game & Engine Developer**
 
 <br><br>
+
+<img height="50" src="https://user-images.githubusercontent.com/77112874/116785747-2aa34b00-aad6-11eb-8921-f82cb5932434.gif"/>
 
 ### Hello, I'm Yeongjae Cho!
 
