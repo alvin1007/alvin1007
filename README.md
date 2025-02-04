@@ -31,10 +31,10 @@
 
 ## Projects
 
+<br><br>
+
 [![RenG](https://github-readme-stats.vercel.app/api/pin/?username=RenG-Visual-Novel-Engine&repo=RenG)](https://github.com/RenG-Visual-Novel-Engine/RenG)
 
 [![Aurora](https://github-readme-stats.vercel.app/api/pin/?username=Aurora-Graphics-Engine&repo=Aurora)](https://github.com/Aurora-Graphics-Engine/Aurora)
-
-<br><br>
 
 </div>
