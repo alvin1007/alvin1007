@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:btimpeul@gmail.com"/>
 </a>
 
-<br><br>
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=theory)](https://solved.ac/theory)
 
