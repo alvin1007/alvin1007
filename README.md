@@ -23,7 +23,7 @@
 
 **Graphics & AI Developer**
 
-<br>
+<br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=theory)](https://solved.ac/theory)
 
@@ -31,7 +31,7 @@
 
 ## Projects
 
-<br><br>
+<br>
 
 [![RenG](https://github-readme-stats.vercel.app/api/pin/?username=RenG-Visual-Novel-Engine&repo=RenG)](https://github.com/RenG-Visual-Novel-Engine/RenG)
 
