@@ -25,6 +25,6 @@
 
 <br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=theory)](https://solved.ac/theory)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=theory)](https://solved.ac/theorist)
 
 </div>
